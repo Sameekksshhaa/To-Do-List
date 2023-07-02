@@ -8,30 +8,31 @@
     width: 100%;
     min-height: 100vh;
     background: linear-gradient(135deg, #153677, #ff1e69);
-    padding: 10px;
+    padding: 30px;
 }
 .todo-app{
     width: 100%;
-    max-width: 540px;
-    background: white;
+    max-width: 500px;
+    background: rgb(255, 255, 255);
     margin: 100px auto 20px;
-    padding: 40px 30px  70px;
-    border-radius: 10px;
+    padding: 40px 30px 70px;
+    border-radius: 20px;
 }
 .todo-app h2{
-    color: #002765;
+    color: #164a9d;
     display: flex;
     align-items: center;
     margin-bottom: 20px;
 }
+
 .row{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: #edeef0;
+    background: #e7e7e7;
     border-radius: 90px;
     padding-left: 20px;
-    margin-bottom: 25px;
+    margin-bottom: 40px;
 
 }
 input{
